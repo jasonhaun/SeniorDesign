@@ -1,0 +1,7 @@
+- This is a zip file that includes all assemblies for the chain system for each drivetrain
+- The file contains a lot of subfiles
+- For the assembly you only need gearsystem1, gearsystem2, and gearsystem3, however you must include all of the subfiles for the assembly
+to work
+- The gearsystems are assembled in the sideplate in the following order:
+From left to right gearsystem1, gearsystem2, gearsystem3, gearsystem2, gearsystem1
+- The sideplate has already been updated into github
